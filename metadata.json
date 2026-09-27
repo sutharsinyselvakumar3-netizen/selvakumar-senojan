@@ -1,0 +1,6 @@
+{
+  "name": "AI COMPANION",
+  "description": "Smart Onion Garden Robot companion application for real-time ESP32 & camera monitoring, AI vision weed detection, and robotic arm control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
